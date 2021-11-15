@@ -17906,6 +17906,14 @@ video {
   background-image: linear-gradient(to top left, var(--tw-gradient-stops));
 }
 
+.bg-desktop{
+  background-image: url('/images/bg-desktop.svg');
+}
+
+.bg-mobile{
+  background-image: url('/images/bg-mobile.svg');
+}
+
 .from-transparent{
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -32619,7 +32627,7 @@ video {
   content: none;
 }
 
-body {
+/* body {
   background: url("../images/bg-desktop.svg") no-repeat center fixed;
   background-size: cover;
   background-color: #674baf;
@@ -32631,7 +32639,7 @@ body {
     background-size: cover;
     background-color: #674baf;
   }
-}
+} */
 
 @media (min-width: 640px){
   .sm\:container{
@@ -49870,6 +49878,14 @@ body {
 
   .sm\:bg-gradient-to-tl{
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
+  }
+
+  .sm\:bg-desktop{
+    background-image: url('/images/bg-desktop.svg');
+  }
+
+  .sm\:bg-mobile{
+    background-image: url('/images/bg-mobile.svg');
   }
 
   .sm\:from-transparent{
@@ -81464,6 +81480,14 @@ body {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .md\:bg-desktop{
+    background-image: url('/images/bg-desktop.svg');
+  }
+
+  .md\:bg-mobile{
+    background-image: url('/images/bg-mobile.svg');
+  }
+
   .md\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -113054,6 +113078,14 @@ body {
 
   .lg\:bg-gradient-to-tl{
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
+  }
+
+  .lg\:bg-desktop{
+    background-image: url('/images/bg-desktop.svg');
+  }
+
+  .lg\:bg-mobile{
+    background-image: url('/images/bg-mobile.svg');
   }
 
   .lg\:from-transparent{
@@ -144648,6 +144680,14 @@ body {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .xl\:bg-desktop{
+    background-image: url('/images/bg-desktop.svg');
+  }
+
+  .xl\:bg-mobile{
+    background-image: url('/images/bg-mobile.svg');
+  }
+
   .xl\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -176238,6 +176278,14 @@ body {
 
   .\32xl\:bg-gradient-to-tl{
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
+  }
+
+  .\32xl\:bg-desktop{
+    background-image: url('/images/bg-desktop.svg');
+  }
+
+  .\32xl\:bg-mobile{
+    background-image: url('/images/bg-mobile.svg');
   }
 
   .\32xl\:from-transparent{

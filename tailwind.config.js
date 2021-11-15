@@ -16,6 +16,10 @@ module.exports = {
         body: ["Poppins", "sans-serif"],
         text: ["Open Sans", "sans-serif"],
       },
+      backgroundImage: {
+        desktop: "url('/images/bg-desktop.svg')",
+        mobile: "url('/images/bg-mobile.svg')",
+      },
     },
   },
   variants: {

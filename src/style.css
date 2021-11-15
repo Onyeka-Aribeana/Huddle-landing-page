@@ -4,16 +4,4 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  background: url("../images/bg-desktop.svg") no-repeat center fixed;
-  background-size: cover;
-  background-color: #674baf;
-}
 
-@media screen and (max-width: 768px) {
-  body {
-    background: url("../images/bg-mobile.svg") no-repeat center fixed;
-    background-size: cover;
-    background-color: #674baf;
-  }
-}
