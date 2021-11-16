@@ -17907,11 +17907,11 @@ video {
 }
 
 .bg-desktop{
-  background-image: url('./docs/images/bg-desktop.svg');
+  background-image: url('./images/bg-desktop.svg');
 }
 
 .bg-mobile{
-  background-image: url('./docs/images/bg-mobile.svg');
+  background-image: url('./images/bg-mobile.svg');
 }
 
 .from-transparent{
@@ -49867,11 +49867,11 @@ video {
   }
 
   .sm\:bg-desktop{
-    background-image: url('./docs/images/bg-desktop.svg');
+    background-image: url('./images/bg-desktop.svg');
   }
 
   .sm\:bg-mobile{
-    background-image: url('./docs/images/bg-mobile.svg');
+    background-image: url('./images/bg-mobile.svg');
   }
 
   .sm\:from-transparent{
@@ -81467,11 +81467,11 @@ video {
   }
 
   .md\:bg-desktop{
-    background-image: url('./docs/images/bg-desktop.svg');
+    background-image: url('./images/bg-desktop.svg');
   }
 
   .md\:bg-mobile{
-    background-image: url('./docs/images/bg-mobile.svg');
+    background-image: url('./images/bg-mobile.svg');
   }
 
   .md\:from-transparent{
@@ -113067,11 +113067,11 @@ video {
   }
 
   .lg\:bg-desktop{
-    background-image: url('./docs/images/bg-desktop.svg');
+    background-image: url('./images/bg-desktop.svg');
   }
 
   .lg\:bg-mobile{
-    background-image: url('./docs/images/bg-mobile.svg');
+    background-image: url('./images/bg-mobile.svg');
   }
 
   .lg\:from-transparent{
@@ -144667,11 +144667,11 @@ video {
   }
 
   .xl\:bg-desktop{
-    background-image: url('./docs/images/bg-desktop.svg');
+    background-image: url('./images/bg-desktop.svg');
   }
 
   .xl\:bg-mobile{
-    background-image: url('./docs/images/bg-mobile.svg');
+    background-image: url('./images/bg-mobile.svg');
   }
 
   .xl\:from-transparent{
@@ -176267,11 +176267,11 @@ video {
   }
 
   .\32xl\:bg-desktop{
-    background-image: url('./docs/images/bg-desktop.svg');
+    background-image: url('./images/bg-desktop.svg');
   }
 
   .\32xl\:bg-mobile{
-    background-image: url('./docs/images/bg-mobile.svg');
+    background-image: url('./images/bg-mobile.svg');
   }
 
   .\32xl\:from-transparent{

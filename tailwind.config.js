@@ -17,8 +17,8 @@ module.exports = {
         text: ["Open Sans", "sans-serif"],
       },
       backgroundImage: {
-        desktop: "url('./docs/images/bg-desktop.svg')",
-        mobile: "url('./docs/images/bg-mobile.svg')",
+        desktop: "url('./images/bg-desktop.svg')",
+        mobile: "url('./images/bg-mobile.svg')",
       },
     },
   },
